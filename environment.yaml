@@ -1,0 +1,17 @@
+name: smartathon
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - opencv=4.5.2
+  - pytorch=1.13.1
+  - numpy=1.23.2
+  - ipykernel=6.19.2
+  - ipywidgets=7.6.5
+  - pip:
+      - onnx==1.13.0
+      - onnxruntime-gpu==1.13.1
+      - matplotlib==3.6.3
+      - pandas==1.5.3
