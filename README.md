@@ -1,3 +1,5 @@
+Explanation Video: [Click Here](https://drive.google.com/file/d/1l7BrMW_qcdrA31Egw-Y6bgOoA2t1mopl/view?usp=sharing)
+
 Installation steps:
 
 
@@ -13,6 +15,8 @@ the root directoty of the project.
 
 You can also download the results folder from [here](https://drive.google.com/drive/folders/1JiUqNV_Vhf_wKtu_thuAG0zm55kSNULs?usp=sharing) and place in the root directory
 of the ptoject.
+
+There is also a pdf version of the notebook in case latex does not render properly on your system.
 
 If there is some issue while installing certain pip packages, please make sure
 that you have upgraded to a new version of pip. This can be done by:
