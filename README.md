@@ -7,10 +7,10 @@ Installation steps:
 4. pip install -r sort/requirements.txt
 5. pip install -r yolov5/requirements.txt
 
-After installation, you can download the demo folder from [here]() and place in
+After installation, you can download the demo folder from [here](https://drive.google.com/drive/folders/1kbdq5wX7ZpVQtV8GDoySdapZK3cFw8du?usp=sharing) and place in
 the root directoty of the project.
 
-You can also download the results folder from [here]() and place in the root directory
+You can also download the results folder from [here](https://drive.google.com/drive/folders/1JiUqNV_Vhf_wKtu_thuAG0zm55kSNULs?usp=sharing) and place in the root directory
 of the ptoject.
 
 If there is some issue while installing certain pip packages, please make sure
