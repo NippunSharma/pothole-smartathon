@@ -4,8 +4,9 @@ Installation steps:
 1. git clone https://github.com/NippunSharma/pothole-smartathon
 2. conda env create --file environment.yaml python=3.8.8
 3. conda activate smartathon
-4. pip install -r sort/requirements.txt
-5. pip install -r yolov5/requirements.txt
+4. Now, install pytorch based upon your operating system and GPU. (refer from https://pytorch.org/get-started/locally/)
+5. pip install -r sort/requirements.txt
+6. pip install -r yolov5/requirements.txt
 
 After installation, you can download the demo folder from [here](https://drive.google.com/drive/folders/1kbdq5wX7ZpVQtV8GDoySdapZK3cFw8du?usp=sharing) and place in
 the root directoty of the project.
