@@ -1,4 +1,4 @@
-Explanation Video: [Click Here](https://drive.google.com/file/d/1l7BrMW_qcdrA31Egw-Y6bgOoA2t1mopl/view?usp=sharing)
+Explanation Video: [Click Here](https://vimeo.com/791501256)
 
 Installation steps:
 
@@ -31,6 +31,11 @@ The models are exported in both `onnx` as well as `torchscript` format.
 
 Please see `pothole_analysis.ipynb` for the detailed description of my approach.
 
+A screenshot of a pothole after reconstruction is present below:
+![3d](https://github.com/NippunSharma/pothole-smartathon/blob/main/image_display.png)
 
+As you can see, the distances measured are in a relative scale. If we multiplt these values
+with an absolute scale (which was found to be approx. 0.27 in the  `pothole_analysis.ipynb`)
+file, then the dimensions of the pothole would become: 0.27 * 1.33 meter (=36 cm) and 0.27 * 0.41 meter (=11cm)
 
 In case of any queries, kindly contact me at: [inbox.nippun@gmail.com](mailto:inbox.nippun@gmail.com)
